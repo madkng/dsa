@@ -11,12 +11,11 @@
 
 ## 📋 Table of Contents
 
-1. [Getting Started](#getting-started)
-2. [Repository Structure](#repository-structure)
-3. [Learning Path](#learning-path-)
-4. [Contribution Guidelines](#contribution-guidelines-)
-5. [Resources](#resources-)
-6. [Support](#support-)
+1. [Getting Started](https://github.com/madkng/dsa/tree/main?tab=readme-ov-file#-getting-started)
+2. [Learning Path](https://github.com/madkng/dsa/tree/main?tab=readme-ov-file#-learning-path-)
+3. [Contribution Guidelines](https://github.com/madkng/dsa/tree/main?tab=readme-ov-file#-contribution-guidelines-)
+4. [Resources](https://github.com/madkng/dsa/tree/main?tab=readme-ov-file#-resources-)
+5. [Support](https://github.com/madkng/dsa/tree/main?tab=readme-ov-file#-support-)
 
 ## 🏁 Getting Started
 
