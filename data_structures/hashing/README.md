@@ -1,4 +1,4 @@
-# Hashing Data Structure
+# Hashing
 
 Hashing is a technique used to uniquely identify a specific object from a group of similar objects. It refers to the process of generating a fixed-size output (hash code or hash value) from an input of typically large and variable size, using mathematical formulas known as hash functions. Hashing is fundamental in computer science for efficient data retrieval, storage, and security.
 
